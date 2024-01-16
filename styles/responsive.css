@@ -78,3 +78,17 @@
          
     }
 }
+
+
+
+
+
+
+
+
+/* footer last part */
+@media (max-width: 768px) {
+    .head {
+      font-size: 0.8em;
+    }
+  }
